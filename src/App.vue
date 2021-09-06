@@ -28,7 +28,7 @@ export default {
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
-// day 2 pf 100 day challenge 3
+// day 2 pf 100 day challenge 4
 
 * {
   margin: 0;
