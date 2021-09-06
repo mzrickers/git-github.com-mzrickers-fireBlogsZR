@@ -23,8 +23,12 @@ export default {
 };
 </script>
 
+
+
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+// dau 2 pf 100 dau challenge
 
 * {
   margin: 0;
